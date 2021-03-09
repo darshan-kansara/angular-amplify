@@ -1,0 +1,76 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognito-login-dev-154640-authRole",
+      "UnauthRoleArn": "arn:aws:iam::314807491729:role/amplify-cognito-login-dev-154640-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::314807491729:role/amplify-cognito-login-dev-154640-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cognito-login-dev-154640-deployment",
+      "UnauthRoleName": "amplify-cognito-login-dev-154640-unauthRole",
+      "StackName": "amplify-cognito-login-dev-154640",
+      "StackId": "arn:aws:cloudformation:us-east-1:314807491729:stack/amplify-cognito-login-dev-154640/324aca50-feec-11e9-8ccf-12da3ecd6186"
+    },
+    "categories": {
+      "auth": {
+        "cognitologin5eb1e512": {}
+      }
+    }
+  },
+  "default": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognito-login-default-210028-authRole",
+      "UnauthRoleArn": "arn:aws:iam::736910231938:role/amplify-cognito-login-default-210028-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::736910231938:role/amplify-cognito-login-default-210028-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cognito-login-default-210028-deployment",
+      "UnauthRoleName": "amplify-cognito-login-default-210028-unauthRole",
+      "StackName": "amplify-cognito-login-default-210028",
+      "StackId": "arn:aws:cloudformation:us-east-2:736910231938:stack/amplify-cognito-login-default-210028/6d8d4da0-7c35-11eb-85da-02b5a70b77dc",
+      "AmplifyAppId": "dhphfkrmtui8q"
+    }
+  },
+  "defaultone": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognito-login-defaultone-214035-authRole",
+      "UnauthRoleArn": "arn:aws:iam::736910231938:role/amplify-cognito-login-defaultone-214035-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::736910231938:role/amplify-cognito-login-defaultone-214035-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cognito-login-defaultone-214035-deployment",
+      "UnauthRoleName": "amplify-cognito-login-defaultone-214035-unauthRole",
+      "StackName": "amplify-cognito-login-defaultone-214035",
+      "StackId": "arn:aws:cloudformation:us-east-2:736910231938:stack/amplify-cognito-login-defaultone-214035/08dfc710-7c3b-11eb-bef7-0ae4b0720876",
+      "AmplifyAppId": "dhphfkrmtui8q"
+    }
+  },
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognito-login-master-215511-authRole",
+      "UnauthRoleArn": "arn:aws:iam::736910231938:role/amplify-cognito-login-master-215511-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::736910231938:role/amplify-cognito-login-master-215511-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cognito-login-master-215511-deployment",
+      "UnauthRoleName": "amplify-cognito-login-master-215511-unauthRole",
+      "StackName": "amplify-cognito-login-master-215511",
+      "StackId": "arn:aws:cloudformation:us-east-2:736910231938:stack/amplify-cognito-login-master-215511/120181b0-7c3d-11eb-8577-0a95f01e818a",
+      "AmplifyAppId": "dhphfkrmtui8q"
+    }
+  },
+  "defaultam": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognito-login-defaultam-142503-authRole",
+      "UnauthRoleArn": "arn:aws:iam::736910231938:role/amplify-cognito-login-defaultam-142503-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::736910231938:role/amplify-cognito-login-defaultam-142503-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cognito-login-defaultam-142503-deployment",
+      "UnauthRoleName": "amplify-cognito-login-defaultam-142503-unauthRole",
+      "StackName": "amplify-cognito-login-defaultam-142503",
+      "StackId": "arn:aws:cloudformation:us-east-2:736910231938:stack/amplify-cognito-login-defaultam-142503/5cd4fb10-7cc7-11eb-be6d-0a8372e09eaa",
+      "AmplifyAppId": "dhphfkrmtui8q"
+    },
+    "categories": {
+      "auth": {
+        "cognitologin5eb1e512": {}
+      }
+    }
+  }
+}
